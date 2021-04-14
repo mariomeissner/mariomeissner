@@ -1,5 +1,5 @@
 ### Hello!
-Welcome to my GitHub profile. Visit my [blog](mariomeissner.github.io) or have a look at some of my repositories!
+Welcome to my GitHub profile. Visit my [blog](https://mariomeissner.github.io/) or have a look at some of my repositories!
 My current interests involve but are not limited to: machine reading comprehension, model compression and pruning, capturing natural language ambiguity.
 
 <!--
