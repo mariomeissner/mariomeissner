@@ -1,6 +1,9 @@
 ### Hello!
-Welcome to my GitHub profile. Visit my [blog](https://mariomeissner.github.io/) or have a look at some of my repositories!
-My current interests involve but are not limited to: machine reading comprehension, model compression and pruning, capturing natural language ambiguity.
+
+I'm a Machine Learning 🤖 researcher and engineer, currently working on Natural Language Processing. Specifically, I'm exploring the shortcut-learning behavior of transformer models, and finding better debiasing techniques to help models avoid spurious correlations in the data. Feel free to visit my [blog](https://mariomeissner.github.io/) or have a look at some of my repositories!
+
+✨ If you're struggling to keep your huggingface experiment code organized, try using a lightning-hydra template! I adapted the popular [lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) for my own needs, adding support for huggingface transformers. Life made easy! Find it below.
+
 
 <!--
 **mariomeissner/mariomeissner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
