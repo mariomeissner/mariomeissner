@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm a **Machine Learning researcher and engineer**, currently working on Natural Language Processing. 
+I'm a **Machine Learning researcher and engineer**, currently working on Natural Language Processing as a master's student at the University of Tokyo.
 
 Specifically, I'm exploring the **shortcut-learning behavior of transformer models**, and finding better debiasing techniques to help models avoid spurious correlations in the data. Feel free to visit my [blog](https://mariomeissner.github.io/) or have a look at some of my repositories!
 
