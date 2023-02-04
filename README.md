@@ -1,8 +1,10 @@
 ### Hello!
 
-I'm a **Machine Learning researcher and engineer**, currently working on Natural Language Processing as a master's student at the University of Tokyo.
+I'm a Full Stack Engineer currently working for Indeed Japan. Formerly, I was a master's student and researcher in the field of NLP.
 
-Specifically, I'm exploring the **shortcut-learning behavior of transformer models**, and finding better debiasing techniques to help models avoid learning from unintended spurious correlations in the data. Feel free to visit my [blog](https://mariomeissner.github.io/) or have a look at some of my repositories!
+Specifically, I explored the **shortcut-learning behavior of transformer models**, and found better debiasing techniques to help models avoid learning from unintended spurious correlations in the data. Feel free to visit my [blog](https://mariomeissner.dev) or have a look at some of my repositories!
+
+I am open to freelancing, startups, and any other kind of collaborations involving web development or ML engineering. Send me an email!
 
 ✨ If you're struggling to keep your huggingface experiment code organized, try using my opinionated [lightning-hydra](https://github.com/mariomeissner/lightning-hydra-transformers) template! I adapted it from the popular template by [ashleve](https://github.com/ashleve/lightning-hydra-template). The most important change is the added support for HuggingFace `transformers`. Life made easy! Find it below.
 
